@@ -6,3 +6,4 @@ google-generativeai
 twilio
 plotly
 streamlit-lottie
+firebase-admin
